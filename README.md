@@ -22,7 +22,7 @@ I also experiment with the point grid size, used for SAOMv1 training. This adapt
 ## News
 The code for training, testing and evaluation of SAOMv1, SAOMv2 and PanoSAM are released on 09.01.25. The re-training code can e used to fine-tune SAM model with any poind grid size and is topic agnostic (can be used for any simulator or domain) to output whole object segmentation masks.
 
-The SAOM and PanoSCU datasets will be released shortly.
+The SAOM dataset is released here: https://ro.ecu.edu.au/datasets/147/ and PanoSCU dataset can be requested privately.
 
 ## 💻 Installation
 
